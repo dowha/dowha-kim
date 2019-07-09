@@ -40,7 +40,7 @@ $btn-border-width: 2px;
   }
 
   &:hover {
-    background-color: lighten(#00b4db, 25%);
+    background-color: darken(#00b4db, 10%);
   }
 
   &.disabled {
