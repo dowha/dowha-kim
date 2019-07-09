@@ -20,7 +20,7 @@ export default () => (
       <Highlight>Notion</Highlight>.
       <br />
       <br />
-      <Button to="https://dowha.kim">Blog</Button>
+      <Button to="https://blog.dowha.kim">Blog</Button>
       <Button to="https://bit.ly/dowha-portfolio">Portfolio</Button>
     </Intro>
 
