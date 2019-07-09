@@ -13,7 +13,7 @@ export default () => (
     <Intro>
       Hi👋 I'm Dowha, a communications officer who believes positive effects of
       internet technology. Have great passion in{" "}
-      <Highlight>LGBTI right</Highlight> and{" "}
+      <Highlight>LGBTI rights</Highlight> and{" "}
       <Highlight>Gender Equality</Highlight>. <br />I love to be creative with{" "}
       <Highlight>Adobe Illustrator</Highlight>, <Highlight>HTML/CSS</Highlight>,{" "}
       <Highlight>Javascript</Highlight>, <Highlight>Gatsby</Highlight>, and{" "}
