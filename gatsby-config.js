@@ -2,7 +2,7 @@ const path = require("path");
 
 module.exports = {
   siteMetadata: {
-    title: "DOWHA.KIM"
+    title: "Dowha KIM"
   },
   plugins: [
     "gatsby-plugin-ueno",
