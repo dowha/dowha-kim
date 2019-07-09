@@ -18,21 +18,14 @@ export default () => (
       <Highlight>root resolver</Highlight>,{" "}
       <Highlight>code splitting</Highlight> and a lot of love.
     </Intro>
-    <Button to="https://dowha.kim">Blog</Button>
-    <Button to="https://bit-ly/dowha-portfolio">Portfolio</Button>
 
     <BlockText
       heading="Come visit my blog and portfolio page"
       description={
         <>
           {" "}
-          <a
-            href="https://blog.dowha.kim"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            BLOG
-          </a>
+          <Button to="https://dowha.kim">Blog</Button>
+          <Button to="https://bit-ly/dowha-portfolio">Portfolio</Button>
         </>
       }
     />
