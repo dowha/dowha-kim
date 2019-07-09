@@ -22,14 +22,17 @@ export default () => (
       heading="Come visit my blog and portfolio page"
       description={
         <>
-          {" "}
-          <a href="https://ueno.co" target="_blank" rel="noopener noreferrer">
-            ueno.co
+          Come visit{" "}
+          <a
+            href="https://blog.dowha.kim"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            BLOG
           </a>
+          ↗
         </>
       }
     />
-    <button type="button">Click Me!</button>
-    <button type="button">Click Me!</button>
   </>
 );
