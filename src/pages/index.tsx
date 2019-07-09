@@ -4,6 +4,7 @@ import Helmet from "react-helmet";
 import { Intro } from "components/intro/Intro";
 import { Highlight } from "components/intro/Highlight";
 import { BlockText } from "components/block-text/BlockText";
+import { Button } from "components/button/Button";
 
 export default () => (
   <>
@@ -16,7 +17,7 @@ export default () => (
       <Highlight>React Hooks</Highlight>,&nbsp;
       <Highlight>root resolver</Highlight>,{" "}
       <Highlight>code splitting</Highlight> and a lot of love.
-      <button>ABCABC</button>
+      <Button>123 123</Button>
     </Intro>
 
     <BlockText
