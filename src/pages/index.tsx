@@ -18,15 +18,16 @@ export default () => (
       <Highlight>root resolver</Highlight>,{" "}
       <Highlight>code splitting</Highlight> and a lot of love.
       <br />
+      <br />
       <Button to="https://dowha.kim">Blog</Button>
       <Button to="https://bit-ly/dowha-portfolio">Portfolio</Button>
     </Intro>
 
     <BlockText
-      heading="Please send me an email if you have any inquiries"
+      heading="Please send me an email if you have any inquiries👇"
       description={
         <>
-          ✉️{" "}
+          to:{" "}
           <a
             href="mailto:dowha.kim@outlook.com"
             target="_blank"
