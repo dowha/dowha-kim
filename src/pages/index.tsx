@@ -17,8 +17,11 @@ export default () => (
       <Highlight>React Hooks</Highlight>,&nbsp;
       <Highlight>root resolver</Highlight>,{" "}
       <Highlight>code splitting</Highlight> and a lot of love.
-      <Button>123 123</Button>
     </Intro>
+    <a target="_blank" rel="noopener noreferrer" href={dowha.kim}>
+      <Button>Blog</Button>
+    </a>
+    <Button>Portfolio</Button>
 
     <BlockText
       heading="Come visit my blog and portfolio page"
