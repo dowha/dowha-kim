@@ -17,8 +17,6 @@ export default () => (
       <Highlight>React Hooks</Highlight>,&nbsp;
       <Highlight>root resolver</Highlight>,{" "}
       <Highlight>code splitting</Highlight> and a lot of love.
-      <Button>Blog</Button>
-      <Button>Portfolio</Button>
     </Intro>
 
     <BlockText
@@ -33,7 +31,8 @@ export default () => (
           >
             BLOG
           </a>
-          ↗
+          <Button>Blog</Button>
+          <Button>Portfolio</Button>
         </>
       }
     />
