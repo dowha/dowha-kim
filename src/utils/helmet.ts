@@ -1,5 +1,6 @@
-const title = "Create Ueno App";
-const description = "The easiest and fastest way to create new projects.";
+const title = "Dowha KIM";
+const description =
+  "Hi! I'm Dowha who believes positive effects of internet technology.";
 
 const favicon = require("assets/images/favicon.png");
 const share = require("assets/images/share.png");
