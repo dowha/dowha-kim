@@ -16,6 +16,7 @@ $btn-border-width: 2px;
 
   cursor: pointer;
 
+  font-family: $font-family;
   font-size: $font-size;
   font-weight: 700;
   line-height: ($btn-height - 2 * $btn-border-width);
@@ -23,7 +24,7 @@ $btn-border-width: 2px;
   text-align: center;
   text-decoration: none;
 
-  background-color: #000;
+  background-color: 00b4db;
   color: #fff;
 
   transition: 180ms;
