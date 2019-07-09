@@ -23,8 +23,20 @@ export default () => (
     </Intro>
 
     <BlockText
-      heading="Come visit my blog and portfolio page"
-      description={<> </>}
+      heading="Please send me an email if you have any inquiries"
+      description={
+        <>
+          ✉️{" "}
+          <a
+            href="mailto:dowha.kim@outlook.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            dowha.kim [at] outlook.com
+          </a>
+          .
+        </>
+      }
     />
   </>
 );
