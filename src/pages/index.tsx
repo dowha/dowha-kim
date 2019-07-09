@@ -22,7 +22,7 @@ export default () => (
       heading="Come visit my blog and portfolio page"
       description={
         <>
-          Come visit{" "}
+          {" "}
           <a
             href="https://blog.dowha.kim"
             target="_blank"
