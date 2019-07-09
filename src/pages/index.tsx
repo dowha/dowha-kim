@@ -26,11 +26,10 @@ export default () => (
           <a href="https://ueno.co" target="_blank" rel="noopener noreferrer">
             ueno.co
           </a>
-          <a href="https://ueno.co" target="_blank" rel="noopener noreferrer">
-            ueno.co
-          </a>
         </>
       }
     />
+    <button type="button">Click Me!</button>
+    <button type="button">Click Me!</button>
   </>
 );
