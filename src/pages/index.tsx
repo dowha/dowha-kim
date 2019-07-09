@@ -18,9 +18,7 @@ export default () => (
       <Highlight>root resolver</Highlight>,{" "}
       <Highlight>code splitting</Highlight> and a lot of love.
     </Intro>
-    <a target="_blank" rel="noopener noreferrer" href={dowha.kim}>
-      <Button>Blog</Button>
-    </a>
+    <Button>Blog</Button>
     <Button>Portfolio</Button>
 
     <BlockText
