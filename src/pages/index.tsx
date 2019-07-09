@@ -16,6 +16,7 @@ export default () => (
       <Highlight>React Hooks</Highlight>,&nbsp;
       <Highlight>root resolver</Highlight>,{" "}
       <Highlight>code splitting</Highlight> and a lot of love.
+      <button>ABCABC</button>
     </Intro>
 
     <BlockText
