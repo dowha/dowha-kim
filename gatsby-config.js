@@ -35,6 +35,19 @@ module.exports = {
       options: {
         component: require.resolve("./src/components/app-layout/AppLayout.tsx")
       }
+    },
+    {
+      resolve: `gatsby-plugin-intl`,
+      options: {
+        // language JSON resource path
+        path: `${__dirname}/src/intl`,
+        // supported language
+        languages: [`en`, `ko`, `de`],
+        // language file path
+        defaultLanguage: `ko`,
+        // option to redirect to `/ko` when connecting `/`
+        redirect: true
+      }
     }
   ]
 };
