@@ -11,16 +11,17 @@ export default () => (
     <Helmet title="Home" />
 
     <Intro>
-      Hi👋 I'm Dowha, a Communications officer based in Bangkok, Thailand.{" "}
-      <Highlight>TypeScript</Highlight>,&nbsp;
-      <Highlight>SCSS</Highlight>, <Highlight>CSS Modules</Highlight>,{" "}
-      <Highlight>React Hooks</Highlight>,&nbsp;
-      <Highlight>root resolver</Highlight>,{" "}
-      <Highlight>code splitting</Highlight> and a lot of love.
+      Hi👋 I'm Dowha, a Communications officer who believes positive effects of
+      internet technology. I love to work with{" "}
+      <Highlight>Adobe Illustrator</Highlight>, <Highlight>HTML/CSS</Highlight>,{" "}
+      <Highlight>Javascript</Highlight>, <Highlight>Gatsby</Highlight>,{" "}
+      <Highlight>Notion</Highlight>. Have great passion in{" "}
+      <Highlight>LGBTI right</Highlight> and{" "}
+      <Highlight>Gender Equality</Highlight>.
       <br />
       <br />
-      <Button to="https://dowha.kim">Blog</Button>
-      <Button to="https://bit-ly/dowha-portfolio">Portfolio</Button>
+      <Button to="https://dowha.kim">Blog🌊</Button>
+      <Button to="https://bit.ly/dowha-portfolio">Portfolio🖼️</Button>
     </Intro>
 
     <BlockText
