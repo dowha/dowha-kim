@@ -19,15 +19,14 @@ export default () => (
       <Highlight>code splitting</Highlight> and a lot of love.
     </Intro>
 
+    <Intro>
+      <Button to="https://dowha.kim">Blog</Button>
+      <Button to="https://bit-ly/dowha-portfolio">Portfolio</Button>
+    </Intro>
+
     <BlockText
       heading="Come visit my blog and portfolio page"
-      description={
-        <>
-          {" "}
-          <Button to="https://dowha.kim">Blog</Button>
-          <Button to="https://bit-ly/dowha-portfolio">Portfolio</Button>
-        </>
-      }
+      description={<> </>}
     />
   </>
 );
