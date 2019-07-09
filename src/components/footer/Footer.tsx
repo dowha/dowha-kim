@@ -14,7 +14,7 @@ interface IFooterProps {
   social: ISocial[];
 }
 
-export const Footer = ({ social }: IFooterProps) => (
+export const Footer = ({ logo, social }: IFooterProps) => (
   <div className={s.footer}>
     <Container>
       <div className={s.footer__content}>
