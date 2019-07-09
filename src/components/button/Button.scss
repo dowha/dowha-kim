@@ -1,4 +1,4 @@
-@import '~styles/config';
+@import "~styles/config";
 
 $btn-height: 40px;
 $btn-border-width: 2px;
@@ -17,11 +17,11 @@ $btn-border-width: 2px;
   cursor: pointer;
 
   font-size: $font-size;
+  font-weight: 700;
   line-height: ($btn-height - 2 * $btn-border-width);
   vertical-align: middle;
   text-align: center;
   text-decoration: none;
-  font-weight: 700
 
   background-color: #000;
   color: #fff;

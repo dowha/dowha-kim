@@ -2,7 +2,6 @@ import * as React from "react";
 import Helmet from "react-helmet";
 
 import Logo from "assets/svg/ueno-logo.svg";
-import Dribbble from "assets/svg/dribbble.svg";
 import Twitter from "assets/svg/twitter.svg";
 import Github from "assets/svg/github.svg";
 import Instagram from "assets/svg/instagram.svg";
@@ -44,7 +43,7 @@ export default ({ children }: IAppLayoutProps) => (
       social={[
         { icon: <Linkedin />, to: "https://www.linkedin.com/in/kimdowha/s" },
         { icon: <Github />, to: "https://github.com/dowha" },
-        { icon: <Twitter />, to: "https://twitter.com/dowha_kims" },
+        { icon: <Twitter />, to: "https://twitter.com/dowha_kim" },
         { icon: <Facebook />, to: "http://facebook.com/kimdowha" },
         { icon: <Instagram />, to: "https://www.instagram.com/dowha.kim" }
       ]}
