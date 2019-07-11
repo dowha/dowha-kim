@@ -2,7 +2,5 @@
 
 # Redirect default Netlify subdomain to primary domain
 https://dowha-kim.netlify.com/* https://dowha.kim/:splat 301!
-http://reviews.dowha.kim/* https://www.dowha.kim/:splat 301!
-https://reviews.dowha.kim/* https://www.dowha.kim/:splat 301!
-
-# https://dowha-blog.netlify.com/* https://blog.dowha.kim/:splat 301!
+http://reviews.dowha.kim / 301!
+https://reviews.dowha.kim / 301!
