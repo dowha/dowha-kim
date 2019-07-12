@@ -11,10 +11,13 @@ export default () => (
     <Helmet title="Home" />
 
     <Intro>
-      Hi👋 I'm Dowha, a communications officer who believes positive effects of
-      internet technology. Have great passion in{" "}
-      <Highlight>LGBTI rights</Highlight> and{" "}
-      <Highlight>Gender Equality</Highlight>. <br />I love to be creative with{" "}
+      Hi👋 I'm{" "}
+      <a href="blog.dowha.kim/about" target="_blank" rel="noopener noreferrer">
+        Dowha
+      </a>
+      , a communications officer who believes positive effects of internet
+      technology. Have great passion in <Highlight>LGBTI rights</Highlight> and{" "}
+      <Highlight>Gender equality</Highlight>. <br />I love to be creative with{" "}
       <Highlight>Adobe Illustrator</Highlight>, <Highlight>HTML/CSS</Highlight>,{" "}
       <Highlight>Javascript</Highlight>, <Highlight>Gatsby</Highlight>, and{" "}
       <Highlight>Notion</Highlight>.
