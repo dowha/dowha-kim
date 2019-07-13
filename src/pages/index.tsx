@@ -9,7 +9,18 @@ import { Button } from "components/button/Button";
 export default () => (
   <>
     <Helmet title="Home" />
-
+    <script
+      dangerouslySetInnerHTML={{
+        __html: `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+              <script>
+                (adsbygoogle = window.adsbygoogle || []).push({
+                  google_ad_client: "ca-pub-9493475755258000",
+                  enable_page_level_ads: true
+                });
+              </script>`
+      }}
+    />
+    `
     <Intro>
       Hi👋 I'm Dowha, a communications officer who believes positive effects of
       internet technology. Have great passion in{" "}
@@ -23,7 +34,6 @@ export default () => (
       <Button to="https://blog.dowha.kim">Blog</Button>
       <Button to="https://bit.ly/dowha-portfolio">Portfolio</Button>
     </Intro>
-
     <BlockText
       heading="Please send me an email if you have any inquiries👇"
       description={
