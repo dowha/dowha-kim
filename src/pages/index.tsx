@@ -22,13 +22,13 @@ export default () => (
     />
     `
     <Intro>
-      Hi👋 I'm Dowha, a communications officer who believes positive effects of
+      Hi👋 I'm Dowha, a content marketer who believes positive effects of
       internet technology. Have great passion in{" "}
-      <Highlight>LGBTI rights</Highlight> and{" "}
+      <Highlight>SaaS</Highlight> and{" "}
       <Highlight>Gender equality</Highlight>. <br />I love to be creative with{" "}
       <Highlight>Adobe Illustrator</Highlight>, <Highlight>HTML/CSS</Highlight>,{" "}
       <Highlight>Javascript</Highlight>, <Highlight>Gatsby</Highlight>, and{" "}
-      <Highlight>Notion</Highlight>.
+      <Highlight>Instagram</Highlight>.
       <br />
       <br />
       <Button to="https://blog.dowha.kim">Blog</Button>
@@ -39,11 +39,11 @@ export default () => (
       description={
         <>
           <a
-            href="mailto:dowha.kim@outlook.com"
+            href="mailto:mail@dowha.kim"
             target="_blank"
             rel="noopener noreferrer"
           >
-            dowha.kim [at] outlook.com
+            mail [at] dowha.kim
           </a>
         </>
       }
